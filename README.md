@@ -1,5 +1,6 @@
-# Hi! I'm RioUsingGitHub 👋  
+# Hi! I'm Rio 👋  
 **Pragmatic Web & AI Engineer**  
+
 Currently building 🚀 @SIPENYU  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RioUsingGithub&theme=onedark)](https://github.com/RioUsingGithub)
@@ -46,6 +47,6 @@ Currently building 🚀 @SIPENYU
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/satriommw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/satrio-matin-makarim-w-395936287)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/satriommw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RioUsingGithub)
