@@ -1,7 +1,7 @@
 # Hi! I'm Rio 👋  
 **Pragmatic Web & AI Engineer**  
 
-Currently building 🚀 @SIPENYU  
+Currently building 🚀 @DSS System for Barina
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RioUsingGithub&theme=onedark)](https://github.com/RioUsingGithub)
 
