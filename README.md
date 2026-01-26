@@ -3,8 +3,6 @@
 
 Currently building 🚀 @DSS System for Barina
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RioUsingGithub&theme=onedark)](https://github.com/RioUsingGithub)
-
 ## 🛠️ Tech Stack
 
 ### 👨💻 Core Skills
@@ -14,6 +12,8 @@ Currently building 🚀 @DSS System for Barina
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -37,7 +37,6 @@ Currently building 🚀 @DSS System for Barina
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RioUsingGithub&theme=dark)](https://git.io/streak-stats)
 [![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioUsingGithub&show_icons=true&theme=vision-friendly-dark)](https://github.com/RioUsingGithub)
 
 ## 🎛️ Tools & Frameworks
